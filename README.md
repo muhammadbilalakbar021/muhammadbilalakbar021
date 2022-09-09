@@ -49,7 +49,7 @@
 </table>
 
 ![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilalakbar021&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilalakbar021&theme=github-light)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=muhammadbilalakbar021/Python)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=muhammadbilalakbar021)
