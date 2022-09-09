@@ -50,10 +50,10 @@
 
 ![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilalakbar021&theme=blue-green)
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=muhammadbilalakbar021/Python)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Profile View Counter](https://komarev.com/ghpvc/?username=muhammadbilalakbar021)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/muhammadbilalakbar021/Python)
 
 ![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github-light&count_private=true&area=true&hide_border=true)
 
