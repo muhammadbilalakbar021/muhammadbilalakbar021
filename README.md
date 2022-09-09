@@ -3,10 +3,10 @@
 <!-- <h6 align="center">Skype: live:.cid.21dae5274167896f Telegram: @alchemist35 -->
 <!--   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alchemist0404.alchemist0404" />
-<img align="right" src="https://img.shields.io/github/followers/alchemist0404?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadbilalakbar021.muhammadbilalakbar021" />
+<img align="right" src="https://img.shields.io/github/followers/muhammadbilalakbar021?label=Follow&style=social" />
 <h1 align="center"></h1> -->
-<!-- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alchemist0404&show_icons=true&theme=merko&count_private=true" />
+<!-- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
@@ -46,24 +46,24 @@
   </tr>
 </table> -->
 
-<!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404) -->
+<!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021) -->
 
-<!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true) -->
+<!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true) -->
 <!-- 
 <div align="center">
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/muhammadbilalakbar021/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadbilalakbar021&theme=gruvbox" />
 </div> -->
 
 <h1 width="100%" align="center"></h1>
@@ -81,5 +81,5 @@
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primozbernard/) -->
 
 <div align="right">
-  <img src="https://count.getloli.com/get/@:alchemist0404?theme=rule34" />
+  <img src="https://count.getloli.com/get/@:muhammadbilalakbar021?theme=rule34" />
 </div>
