@@ -48,10 +48,10 @@
   </tr>
 </table>
 
-[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021)]
-[![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021)]
+![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021)
+![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021)
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github-light&count_private=true&area=true&hide_border=true)]
+![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github-light&count_private=true&area=true&hide_border=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true)
 
