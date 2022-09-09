@@ -1,12 +1,12 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Smart+Contract+Developer;Senior+Frontend+Engineer" alt="Alchemist" width="100%">
 
-<!-- <h6 align="center">Skype: live:.cid.21dae5274167896f Telegram: @alchemist35 -->
-<!--   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<h6 align="center">Skype: live:.cid.21dae5274167896f Telegram: @muhammadbilalakbar021
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadbilalakbar021.muhammadbilalakbar021" />
 <img align="right" src="https://img.shields.io/github/followers/muhammadbilalakbar021?label=Follow&style=social" />
 <h1 align="center"></h1> -->
-<!-- <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true&theme=merko&count_private=true" />
+ <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
@@ -46,10 +46,10 @@
   </tr>
 </table> -->
 
-<!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021) -->
+[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021)
 
-<!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true) -->
-<!-- 
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true)
+
 <div align="center">
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/muhammadbilalakbar021/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
@@ -69,16 +69,16 @@
 <h1 width="100%" align="center"></h1>
 
 <div align="center" width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Alchemist" width="100%">
+  <img align="center" src="./github-metrics.svg" alt="QuantumAlgoPot" width="100%">
 </div>
 
 ## Contact me
 
-<!-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primozbernard401@gmail.com) -->
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primozbernard401@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/zqVb0AjH4liM)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@alchemist35)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593172254792)
-<!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primozbernard/) -->
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primozbernard/)
 
 <div align="right">
   <img src="https://count.getloli.com/get/@:muhammadbilalakbar021?theme=rule34" />
