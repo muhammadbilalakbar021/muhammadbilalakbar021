@@ -44,11 +44,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
-</table> -->
+</table>
 
-[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021)
+[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021)]
+[![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadbilalakbar021)]
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true)
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true&area=true&hide_border=true)]
 
 <div align="center">
   <a href="https://badges.pufler.dev">
