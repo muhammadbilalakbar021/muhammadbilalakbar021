@@ -50,10 +50,12 @@
 
 ![trophy](https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilalakbar021&theme=blue-green)
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 ![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github-light&count_private=true&area=true&hide_border=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true)
 
 <div align="center">
     <img src="https://badges.pufler.dev/visits/muhammadbilalakbar021?style=flat-square&logo=github">
