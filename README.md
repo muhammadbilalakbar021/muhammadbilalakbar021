@@ -1,11 +1,12 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Smart+Contract+Developer;Senior+Frontend+Engineer" alt="Alchemist" width="100%">
 
-<h6 align="center">Skype: live:.cid.21dae5274167896f Telegram: @muhammadbilalakbar021
+<h6 align="center">Skype: live:.cid.21dae5274167896f Telegram: @muhammadbilalakbar021</h6>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadbilalakbar021.muhammadbilalakbar021" />
 <img align="right" src="https://img.shields.io/github/followers/muhammadbilalakbar021?label=Follow&style=social" />
-<h1 align="center"></h1> -->
+<h1 align="center"></h1>
+
  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
@@ -51,18 +52,20 @@
 
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbilalakbar021&theme=github&count_private=true&area=true&hide_border=true)]
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+
 <div align="center">
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/muhammadbilalakbar021/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/muhammadbilalakbar021/muhammadbilalakbar021?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/muhammadbilalakbar021?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/muhammadbilalakbar021?style=flat-square&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/muhammadbilalakbar021?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/muhammadbilalakbar021?style=flat-square&logo=github">
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadbilalakbar021&theme=gruvbox" />
 </div> -->
