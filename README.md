@@ -56,19 +56,11 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true)
 
 <div align="center">
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/muhammadbilalakbar021?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/muhammadbilalakbar021?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/muhammadbilalakbar021?style=flat-square&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/gists/muhammadbilalakbar021?style=flat-square&logo=github">
-  </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadbilalakbar021&theme=gruvbox" />
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadbilalakbar021&theme=gruvbox" />
 </div>
 
 <h1 width="100%" align="center"></h1>
