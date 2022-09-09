@@ -9,9 +9,7 @@
 <h1 align="center"></h1>
 
  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammadbilalakbar021&show_icons=true&count_private=true" />
- <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilalakbar021" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&count_private=true" />
-<img height="150px" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
