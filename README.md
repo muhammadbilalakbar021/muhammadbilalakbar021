@@ -69,7 +69,7 @@
     <img src="https://badges.pufler.dev/gists/muhammadbilalakbar021?style=flat-square&logo=github">
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadbilalakbar021&theme=gruvbox" />
-</div> -->
+</div>
 
 <h1 width="100%" align="center"></h1>
 
